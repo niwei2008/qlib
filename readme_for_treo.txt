@@ -1,0 +1,3 @@
+脚本命令用powershell命令
+查询数据库写python脚本查询
+创建的临时文件都放到mytemp目录下
